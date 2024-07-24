@@ -1,7 +1,7 @@
 # This file is parsed by Deutex.
+[lumps]
+DEHACKED
+
 [graphics]
 # Name OffsetX OffsetY
 STBAR 0 0
-
-[lumps]
-DEHACKED

@@ -1,16 +1,4 @@
-Patch File for DeHackEd v3.0
-Doom version = 19
-Patch format = 6
-
-# SPDX-License-Identifier: BSD-3-Clause
-
-# This is a magic comment recognized by Chocolate Doom, so that the
-# BEX [STRINGS] section below will be parsed:
-#
-#   *allow-extended-strings*
-
 [STRINGS]
-
 GOTARMOR = Put on a force field vest.
 GOTMEGA = Put on the attuned force field armour!
 GOTHTHBONUS = Health boosted!
@@ -156,7 +144,6 @@ HUSTR_29 = MAP29: Melting Point
 HUSTR_30 = MAP30: Jaws of Defeat
 HUSTR_31 = MAP31: Be Quiet
 HUSTR_32 = MAP32: Not Sure
-# After MAP06, before MAP07:
 C1TEXT = Not even Earth is safe. The monsters show\n\
          up ahead of you everywhere you run.\n\
          Where are they even coming from?\n\n\
