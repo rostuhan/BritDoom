@@ -1,0 +1,2 @@
+This repository uses graphics from mc776's [LibTech1](https://codeberg.org/mc776/LibTech1).
+Used graphics: graphics/stbar.png
